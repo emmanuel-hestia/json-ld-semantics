@@ -19,8 +19,9 @@ This project requires Python 3.7+
 1. Clone that repository and cd into it.
 2. Create a virtual environment: `python -m venv ./env`
 3. Activate that virtual environment: `source ./env/bin/activate`
-4. Install the package: `pip install -e .`
-5. Drink water, because it is important to stay hydrated.
+4. Install depedencies: `pip install -r requirements.txt` (or depending on your environment: `pip3 install -r requirements.txt`)
+5. Install the package: `pip install -e .` (or depending on your environment: `pip3 install -e .`)
+6. Drink water, because it is important to stay hydrated.
 
 ### Quickstart
 
