@@ -44,6 +44,8 @@ model = Model(name="My model", traversal=tree.export_traversal())
 model = Model(name="My model").add_files(filename).process_files()
 ```
 
+To run, `cd examples/notebook/`; launch the environment with `jupyter notebook`, and start the lab by clicking on `Example.ipynb`.
+
 ### Applications
 
 Example:
