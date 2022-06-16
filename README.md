@@ -17,7 +17,7 @@ Because [JSON](https://en.wikipedia.org/wiki/Jason) explores with Argo[nodes](ht
 This project requires Python 3.7+
 
 1. Clone that repository and cd into it.
-2. Create a virtual environment: `python -m venv ./env`
+2. Create a virtual environment: `python -m venv ./env` (or `python3 -m venv ./env` depending on your environment)
 3. Activate that virtual environment: `source ./env/bin/activate`
 4. Install the package: `pip install -e .`
 5. Drink water, because it is important to stay hydrated.
